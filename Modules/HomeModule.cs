@@ -2,9 +2,9 @@ using Nancy;
 using System.Collections.Generic;
 using System;
 using System.IO;
-using CoinCombo.Objects;
+using CoinCombo;
 
-namespace CoinCombo
+namespace Coin
 {
     public class HomeModule : NancyModule
     {
